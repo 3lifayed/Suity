@@ -1,0 +1,9 @@
+E:\Project\suity\suity\bin\Debug\suity.exe.config
+E:\Project\suity\suity\bin\Debug\suity.exe
+E:\Project\suity\suity\bin\Debug\suity.pdb
+E:\Project\suity\suity\obj\Debug\suity.csprojResolveAssemblyReference.cache
+E:\Project\suity\suity\obj\Debug\suity.Form1.resources
+E:\Project\suity\suity\obj\Debug\suity.Properties.Resources.resources
+E:\Project\suity\suity\obj\Debug\suity.csproj.GenerateResource.Cache
+E:\Project\suity\suity\obj\Debug\suity.exe
+E:\Project\suity\suity\obj\Debug\suity.pdb
