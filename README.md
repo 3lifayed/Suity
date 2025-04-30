@@ -24,7 +24,7 @@ This is a C# Windows Forms Application built to demonstrate basic CRUD functiona
 
 ## Getting Started
 
-1. Clone this repository:
+1. Clone the repository
 2. Open the solution in **Visual Studio 2022**
 3. Ensure that **.NET desktop development** workload is installed
 4. Build the project (`Ctrl+Shift+B`)
